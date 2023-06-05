@@ -4,7 +4,7 @@
 Skills: Python/Django /Laravel /Java /HTML /CSS /Javascript / SQL 
 
 - 🔭 I’m currently working on Inventory Management 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Springboot Framework 
 
 
 <h3 align="left">Connect with me:</h3>
