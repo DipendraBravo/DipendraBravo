@@ -3,7 +3,7 @@
 
 Skills: Python/Django /Laravel /Java /HTML /CSS /Javascript / SQL 
 
-- 🔭 I’m currently working on Inventory Management 
+- 🔭 I’m currently working as Wordpress Developer sad life :P 
 - 🌱 I’m currently learning Springboot Framework 
 
 
